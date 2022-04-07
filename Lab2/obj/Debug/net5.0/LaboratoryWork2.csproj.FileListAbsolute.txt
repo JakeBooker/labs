@@ -1,0 +1,32 @@
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.AssemblyReference.cache
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfoInputs.cache
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfo.cs
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.CoreCompileInputs.cache
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.exe
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.deps.json
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.json
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.dev.json
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.dll
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\bin\Debug\net5.0\ref\LaboratoryWork2.dll
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.pdb
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.dll
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\ref\LaboratoryWork2.dll
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.pdb
+E:\!Programming\C#\Мишины лабораторки\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.exe
+C:\Users\Сергей\Desktop\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.deps.json
+C:\Users\Сергей\Desktop\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.json
+C:\Users\Сергей\Desktop\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.dll
+C:\Users\Сергей\Desktop\LaboratoryWork2\bin\Debug\net5.0\ref\LaboratoryWork2.dll
+C:\Users\Сергей\Desktop\LaboratoryWork2\bin\Debug\net5.0\LaboratoryWork2.pdb
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.dll
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\ref\LaboratoryWork2.dll
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.pdb
+C:\Users\Сергей\Desktop\LaboratoryWork2\obj\Debug\net5.0\LaboratoryWork2.genruntimeconfig.cache

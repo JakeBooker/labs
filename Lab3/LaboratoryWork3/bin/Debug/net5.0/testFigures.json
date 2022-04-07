@@ -1,0 +1,31 @@
+{
+  "$type": "System.Collections.Generic.List`1[[LaboratoryWork3.Figure, LaboratoryWork3]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "LaboratoryWork3.Ellipse, LaboratoryWork3",
+      "A": 4,
+      "B": 12,
+      "FrameThick": 0,
+      "Type": 3
+    },
+    {
+      "$type": "LaboratoryWork3.Circle, LaboratoryWork3",
+      "Radius": 9,
+      "FrameThick": 4,
+      "Type": 1
+    },
+    {
+      "$type": "LaboratoryWork3.Rectangle, LaboratoryWork3",
+      "A": 20,
+      "B": 20,
+      "FrameThick": 3,
+      "Type": 4
+    },
+    {
+      "$type": "LaboratoryWork3.Square, LaboratoryWork3",
+      "Side": 20,
+      "FrameThick": 2,
+      "Type": 2
+    }
+  ]
+}
